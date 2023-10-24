@@ -2,16 +2,16 @@
 
 # Rectangle Pattern
 ## Solid Reactangle
-
+`
 ************
 ************
 ************
+`
 
 ## Hollow Rectangle
-
+`
 *************
 *           *
 *           *
 *************
-
-#
+`
