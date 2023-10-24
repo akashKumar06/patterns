@@ -1,23 +1,23 @@
 # *Patterns*
 `This Repository contains all the possible patterns build using c++ language`
 
-# Rectangle Pattern
-## Solid Reactangle
+## Rectangle Pattern
+### Solid Reactangle
 ```
 ************
 ************
 ************
 ```
 
-## Hollow Rectangle
+### Hollow Rectangle
 ```
 *************
 *           *
 *           *
 *************
 ```
-# Pyramid Pattern
-## Half Pyramid
+## Pyramid Pattern
+### Half Pyramid
 ```
 *
 **
@@ -25,7 +25,7 @@
 ****
 *****
 ```
-## Inverted Half Pyramid
+### Inverted Half Pyramid
 ```
 *****
 ****
@@ -33,7 +33,7 @@
 **
 *
 ```
-## Hollow Inverted Half Pyramid
+### Hollow Inverted Half Pyramid
 ```
 *******
 *    *
@@ -42,7 +42,7 @@
 * *
 *
 ```
-## Full Pyramid
+### Full Pyramid
 ```
       *
      ***
@@ -51,7 +51,7 @@
   *********
  ***********
 ```
-## Inverted Full Pyramid
+### Inverted Full Pyramid
 ```
 *********
  *******
@@ -59,7 +59,7 @@
    ***
     *
 ```
-## Hollow Full Pyramid
+### Hollow Full Pyramid
 ```
       *
      * *
@@ -68,14 +68,14 @@
   *       *
  ***********
 ```
-## Pascal Triangle
+### Pascal Triangle
 ```
     *
    *  *
   *  *  *
  *  *  *  *
 ```
-## Pascal inverted Triangle
+### Pascal inverted Triangle
 ```
 * * * * * * *
  * * * * * *
@@ -85,7 +85,7 @@
      * *
       *
 ```
-## Pascal Hollow Full Triangle
+### Pascal Hollow Full Triangle
 ```
 * * * * * * *
  *         *
