@@ -32,3 +32,65 @@
 **
 *
 ```
+## Hollow Inverted Half Pyramid
+```
+*******
+*    *
+*   *
+*  *
+* *
+*
+```
+## Full Pyramid
+```
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+```
+## Inverted Full Pyramid
+```
+*********
+ *******
+  *****
+   ***
+    *
+```
+## Hollow Full Pyramid
+```
+      *
+     * *
+    *   *
+   *     *
+  *       *
+ ***********
+```
+## Pascal Triangle
+```
+    *
+   *  *
+  *  *  *
+ *  *  *  *
+```
+## Pascal inverted Triangle
+```
+* * * * * * *
+ * * * * * *
+  * * * * *
+   * * * *
+    * * *
+     * *
+      *
+```
+## Pascal Hollow Full Triangle
+```
+* * * * * * *
+ *         *
+  *       *
+   *     *
+    *   *
+     * *
+      *
+```
