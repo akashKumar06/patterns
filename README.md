@@ -1,4 +1,5 @@
-# patterns
+# *Patterns*
+`This Repository contains all the possible patterns build using c++ language`
 
 # Rectangle Pattern
 ## Solid Reactangle
