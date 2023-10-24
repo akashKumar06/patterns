@@ -15,3 +15,20 @@
 *           *
 *************
 ```
+# Pyramid Pattern
+## Half Pyramid
+```
+*
+**
+***
+****
+*****
+```
+## Inverted Half Pyramid
+```
+*****
+****
+***
+**
+*
+```
