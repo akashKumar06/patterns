@@ -1,8 +1,17 @@
 # patterns
 
-# Solid Reactangle
-`
-akshdsdh
-******
-8**********
-`
+# Rectangle Pattern
+## Solid Reactangle
+
+************
+************
+************
+
+## Hollow Rectangle
+
+*************
+*           *
+*           *
+*************
+
+#
