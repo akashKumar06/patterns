@@ -16,7 +16,7 @@
 *           *
 *************
 ```
-## Pyramid Pattern
+## Pyramid Pattern _Stars_
 ### Half Pyramid
 ```
 *
@@ -94,4 +94,30 @@
     *   *
      * *
       *
+```
+## Pyramid Pattern _Numbers_
+### Half Pyramid
+```
+1
+12
+123
+1234
+12345
+```
+### Inverted Half Pyramid
+```
+12345
+1234
+123
+12
+1
+```
+
+### Hollow Half Pyramid
+```
+1
+12
+1 3
+1  4
+12345
 ```
