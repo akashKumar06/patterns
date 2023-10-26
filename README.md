@@ -145,3 +145,36 @@
 4 5
 5
 ```
+## Plaindrome Pyramid Pattern
+### Half Palindrome Pyramid
+``` 
+1
+121
+12321
+1234321
+123454321
+```
+### Half Palindrome Pyramid Alphabet
+```
+A
+ABA
+ABCBA
+ABCDCBA
+ABCDEDCBA
+```
+### Full Pyramid Palindrome Number
+```
+     1
+    121
+   12321
+  1234321
+ 123454321
+```
+### Full Pyramid Star and Number Pattern
+```
+********1********
+*******2*2*******
+******3*3*3******
+*****4*4*4*4*****
+****5*5*5*5*5****
+```
